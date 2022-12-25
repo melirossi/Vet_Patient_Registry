@@ -1,0 +1,110 @@
+
+/* 
+    Created on : 20 dic 2022, 14:31:07
+    Author     : Melisa
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/854/146/non_2x/hand-drawn-seamless-pattern-of-bones-dogs-vet-background-line-art-illustration-in-black-white-colors-vector.jpg");
+    background-size: 400px;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    background: #EFEAF6;
+}
+
+.navbar-brand img {
+    border-radius: 30%;
+}
+
+.collapse a {
+    color: grey;
+    letter-spacing: 2px;
+    font-size: large;
+    font-family: 'Lato', sans-serif;
+}
+
+.collapse a:hover {
+    font-weight: bold;
+    color: #67597A;
+}
+
+main {
+    box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+    margin-top: 40px;
+    background: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+main h1 {
+    color: #67597A;
+    font-size: 70px; 
+    margin-top: 50px;
+}
+
+main h2 {
+    color: black;
+    font-size: 40px;
+    margin-top: 90px;
+}
+
+main h3 {
+    color: grey;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.btn {    
+    color:#67597A;
+    font-size: 17px;
+    border-color: #67597A;
+    border-width: 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color: #67597A; 
+    color: white;
+}
+
+.table a {
+    text-decoration: none;
+    color: black;
+}    
+
+.table a:hover {
+    color: #67597A;
+    font-weight: bold;
+}
+
+.table {
+    margin: 20px 0px 40px;
+}
+
+form {
+    margin: 30px;
+}
+
+form .form-control {
+    margin:  15px 0px;
+}
+
+form .btn {
+    padding: 5px 50px;
+}
+
+form .return:hover {
+    background: #CB4335;
+}
+
+form .ok:hover {
+    background: #28B463;
+}
+
