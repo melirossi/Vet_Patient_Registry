@@ -7,29 +7,28 @@
 
 Dynamic website made for the course "𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝘄𝗶𝘁𝗵 𝗝𝗮𝘃𝗮" dictated by 𝗖𝗼𝗱𝗼 𝗮 𝗖𝗼𝗱𝗼 𝟰.𝟬. 
 
-This website was built to register a vet's patients.
+This database-driven website was built to register the patients of a veterinary clinic.
+
+On this website it is possible to store and manage information (add, edit and delete patients) in a simple and attractive way.
 
 [![LinkToVideo](https://img.shields.io/badge/Link_to_YouTube_Video-orange?style=for-the-badge&logo=appveyor.svg)](https://youtu.be/5CxSDWOSCQo)
 
-###  𝗛𝗼𝗺𝗲 
- 
-🏠 NavBar with the company logo and navigation menu.
-
-
-
 ## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
+
+✔️ Clean and attractive visualization.
 
 ✔️ Responsive design.
 
-✔️ Simple interface.
+✔️ Simple interface to store patient data and manage it.
 
-✔️ Clean design with attractive visualization.
+✔️ Data can be accessed from anywhere via the cloud. 
+
+✔️ Information is always updated because this website can be synchronized to your cloud database.
 
 ## 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝘂𝘀𝗲𝗱
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ## 𝗟𝗲𝘁'𝘀 𝗸𝗲𝗲𝗽 𝗶𝗻 𝘁𝗼𝘂𝗰𝗵!
 
